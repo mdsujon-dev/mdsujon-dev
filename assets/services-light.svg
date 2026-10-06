@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="What Md Sujon Mia does: Frontend, Backend, Data, Delivery">
+<title>What I Do: Frontend, Backend, Data, Delivery</title>
+<defs><linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<style>.s{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}
+.c{opacity:0;animation:f .6s ease forwards}@keyframes f{to{opacity:1}}</style></defs>
+<g class="c" style="animation-delay:0.00s" transform="translate(0,0)">
+<rect x="0.5" y="0.5" width="284" height="249" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="24" y="0" width="56" height="3" rx="1.5" fill="url(#ac)"/>
+<rect x="24" y="30" width="44" height="44" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+<g transform="translate(46,52)" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-13" y="-10" width="26" height="20" rx="3"/><path d="M-13 -4 H13"/><circle cx="-9" cy="-7" r="0.8"/></g>
+<text x="261" y="62" text-anchor="end" class="m" font-size="26" font-weight="700" fill="#CBD5E1">01</text>
+<text x="24" y="114" class="s" font-size="21" font-weight="700" fill="#0B1220">Frontend</text>
+<circle cx="28" cy="147" r="2.5" fill="#10B981"/><text x="40" y="152" class="s" font-size="15" fill="#5B6578">Next.js App Router</text>
+<circle cx="28" cy="177" r="2.5" fill="#10B981"/><text x="40" y="182" class="s" font-size="15" fill="#5B6578">Server Components</text>
+<circle cx="28" cy="207" r="2.5" fill="#10B981"/><text x="40" y="212" class="s" font-size="15" fill="#5B6578">Accessible, responsive UI</text>
+</g>
+<g class="c" style="animation-delay:0.15s" transform="translate(305,0)">
+<rect x="0.5" y="0.5" width="284" height="249" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="24" y="0" width="56" height="3" rx="1.5" fill="url(#ac)"/>
+<rect x="24" y="30" width="44" height="44" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+<g transform="translate(46,52)" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 -9 L-12 0 L-6 9 M6 -9 L12 0 L6 9 M2 -11 L-2 11"/></g>
+<text x="261" y="62" text-anchor="end" class="m" font-size="26" font-weight="700" fill="#CBD5E1">02</text>
+<text x="24" y="114" class="s" font-size="21" font-weight="700" fill="#0B1220">Backend</text>
+<circle cx="28" cy="147" r="2.5" fill="#10B981"/><text x="40" y="152" class="s" font-size="15" fill="#5B6578">Layered REST APIs</text>
+<circle cx="28" cy="177" r="2.5" fill="#10B981"/><text x="40" y="182" class="s" font-size="15" fill="#5B6578">Validation &amp; middleware</text>
+<circle cx="28" cy="207" r="2.5" fill="#10B981"/><text x="40" y="212" class="s" font-size="15" fill="#5B6578">JWT &amp; role-based access</text>
+</g>
+<g class="c" style="animation-delay:0.30s" transform="translate(610,0)">
+<rect x="0.5" y="0.5" width="284" height="249" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="24" y="0" width="56" height="3" rx="1.5" fill="url(#ac)"/>
+<rect x="24" y="30" width="44" height="44" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+<g transform="translate(46,52)" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-7" rx="11" ry="4"/><path d="M-11 -7 V7 C-11 12 11 12 11 7 V-7 M-11 0 C-11 5 11 5 11 0"/></g>
+<text x="261" y="62" text-anchor="end" class="m" font-size="26" font-weight="700" fill="#CBD5E1">03</text>
+<text x="24" y="114" class="s" font-size="21" font-weight="700" fill="#0B1220">Data</text>
+<circle cx="28" cy="147" r="2.5" fill="#10B981"/><text x="40" y="152" class="s" font-size="15" fill="#5B6578">Prisma &amp; PostgreSQL</text>
+<circle cx="28" cy="177" r="2.5" fill="#10B981"/><text x="40" y="182" class="s" font-size="15" fill="#5B6578">MongoDB aggregation</text>
+<circle cx="28" cy="207" r="2.5" fill="#10B981"/><text x="40" y="212" class="s" font-size="15" fill="#5B6578">Indexing &amp; query tuning</text>
+</g>
+<g class="c" style="animation-delay:0.45s" transform="translate(915,0)">
+<rect x="0.5" y="0.5" width="284" height="249" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="24" y="0" width="56" height="3" rx="1.5" fill="url(#ac)"/>
+<rect x="24" y="30" width="44" height="44" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+<g transform="translate(46,52)" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-9 9 L9 -9 M1 -9 H9 V-1"/><path d="M-11 -3 L-11 11 L3 11" stroke-opacity="0.5"/></g>
+<text x="261" y="62" text-anchor="end" class="m" font-size="26" font-weight="700" fill="#CBD5E1">04</text>
+<text x="24" y="114" class="s" font-size="21" font-weight="700" fill="#0B1220">Delivery</text>
+<circle cx="28" cy="147" r="2.5" fill="#10B981"/><text x="40" y="152" class="s" font-size="15" fill="#5B6578">End-to-end TypeScript</text>
+<circle cx="28" cy="177" r="2.5" fill="#10B981"/><text x="40" y="182" class="s" font-size="15" fill="#5B6578">Performance budgets</text>
+<circle cx="28" cy="207" r="2.5" fill="#10B981"/><text x="40" y="212" class="s" font-size="15" fill="#5B6578">Clean, maintainable code</text>
+</g>
+</svg>
