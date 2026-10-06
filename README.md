@@ -45,20 +45,37 @@ I'm **Md Sujon Mia**, a **full stack software engineer** from Bangladesh. I desi
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,firebase,git,vercel&theme=dark&perline=13" alt="Tech stack: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Prisma, Firebase, Git, Vercel" />
 </picture>
 
-### How I Build
+### What I Do
 
-| | |
-| --- | --- |
-| **Frontend** | Next.js App Router, Server Components, accessible & responsive design systems |
-| **Backend** | Layered REST APIs (controllers → services), validation, JWT & role-based access |
-| **Data** | Relational modeling with Prisma, MongoDB aggregation, indexing & query tuning |
-| **Delivery** | Type-safe end to end, performance budgets, CI-friendly and easy to maintain |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/services-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/services-light.svg" />
+  <img src="./assets/services-dark.svg" alt="What I do: Frontend (Next.js, Server Components), Backend (REST APIs, JWT auth), Data (Prisma, PostgreSQL, MongoDB), Delivery (TypeScript, performance)" width="100%" />
+</picture>
 
-### Activity
+### Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsujon-dev&show_icons=true&hide_rank=true&hide_border=true&hide_title=true&theme=transparent&icon_color=10B981&text_color=8B949E" alt="Md Sujon Mia GitHub stats" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsujon-dev&layout=compact&hide_border=true&hide_title=true&theme=transparent&text_color=8B949E&langs_count=6" alt="Md Sujon Mia top languages" height="140" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsujon-dev&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsujon-dev&theme=github_dark" alt="Md Sujon Mia GitHub contribution chart" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsujon-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&icon_color=10B981&title_color=10B981&text_color=8B949E&custom_title=GitHub%20Stats" alt="Md Sujon Mia GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mdsujon-dev&hide_border=true&background=00000000&ring=10B981&fire=22D3EE&currStreakLabel=10B981&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=30363D" alt="Md Sujon Mia GitHub contribution streak" width="49%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsujon-dev&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsujon-dev&theme=github_dark" alt="Repositories per language" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsujon-dev&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsujon-dev&theme=github_dark" alt="Most committed languages" width="49%" />
+  </picture>
 </p>
 
 <br/>
