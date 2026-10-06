@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Md Sujon Mia — Full Stack Software Engineer">
+<title>Md Sujon Mia — Full Stack Software Engineer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0D14"/><stop offset="1" stop-color="#0F1520"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.2" r="0.6"><stop offset="0" stop-color="#10B981" stop-opacity="0.22"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="0.6" cy="1" r="0.5"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.12"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity="0.06"/></pattern>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="300" rx="20"/></clipPath>
+<style>.s{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}</style>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<rect width="1200" height="300" fill="url(#glow)"/>
+<rect width="1200" height="300" fill="url(#glow2)"/>
+<g fill="none" stroke="url(#ac)" stroke-opacity="0.35">
+<circle cx="1010" cy="150" r="70"/><circle cx="1010" cy="150" r="110" stroke-opacity="0.2"/><circle cx="1010" cy="150" r="150" stroke-opacity="0.1"/>
+</g>
+<text x="1010" y="165" text-anchor="middle" class="m" font-size="40" font-weight="600" fill="url(#ac)">&lt;/&gt;</text>
+<circle cx="80" cy="66" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="94" y="71" class="m" font-size="13" letter-spacing="2" fill="#8B95A7">AVAILABLE FOR WORK · RANGPUR, BANGLADESH</text>
+<text x="70" y="140" class="s" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#F5F7FA">Md Sujon Mia</text>
+<text x="72" y="186" class="s" font-size="22" font-weight="400" fill="#8B95A7">Full Stack Software Engineer <tspan fill="url(#ac)" font-weight="600">— building scalable web products</tspan></text>
+<rect x="72" y="226" width="78" height="30" rx="15" fill="#111827" stroke="#1F2937"/><text x="111" y="246" text-anchor="middle" class="m" font-size="13" fill="#8B95A7">Next.js</text><rect x="160.2" y="226" width="104" height="30" rx="15" fill="#111827" stroke="#1F2937"/><text x="212" y="246" text-anchor="middle" class="m" font-size="13" fill="#8B95A7">TypeScript</text><rect x="274.2" y="226" width="78" height="30" rx="15" fill="#111827" stroke="#1F2937"/><text x="313" y="246" text-anchor="middle" class="m" font-size="13" fill="#8B95A7">Node.js</text><rect x="362.4" y="226" width="104" height="30" rx="15" fill="#111827" stroke="#1F2937"/><text x="414" y="246" text-anchor="middle" class="m" font-size="13" fill="#8B95A7">PostgreSQL</text><rect x="476.4" y="226" width="78" height="30" rx="15" fill="#111827" stroke="#1F2937"/><text x="516" y="246" text-anchor="middle" class="m" font-size="13" fill="#8B95A7">MongoDB</text>
+<rect x="0" y="296" width="1200" height="4" fill="url(#ac)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#1F2937"/>
+</svg>
